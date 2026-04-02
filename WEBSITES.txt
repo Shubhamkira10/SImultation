@@ -1,0 +1,15 @@
+https://developer.nvidia.com/embedded/learn/jetson-orin-nano-devkit-user-guide/hardware_spec.html
+https://www.youtube.com/watch?v=PuHS8wHZnME
+https://www.youtube.com/watch?v=HIH6MC97iJw
+https://docs.holybro.com/power-module-and-pdb/power-module/pm07-quick-start-guide
+https://docs.holybro.com/power-module-and-pdb/power-module/download
+https://grabcad.com/library/raspberry-pi-5-2
+https://docs.cubepilot.org/user-guides/3d-printing/cubepilot-product-3d-model#power-brick-mini
+https://www.youtube.com/watch?v=ifndEzZt2TI (Chinese)
+https://docs.cubepilot.org/user-guides/cubepilot-ecosystem/cubepilot-ecosystem-autopilot-wiring-diagram
+https://docs.cubepilot.org/user-guides/carrier-boards/ads-b-carrier-board
+http://store.creality.com/blogs/all/best-3d-printing-temperature-for-3d-printer-filaments
+https://youtu.be/IwNJCswZjhA?si=XPqGz5HKyPNIzkwf
+https://www.frsky-rc.com/wp-content/uploads/2017/07/Manual/X4R%20X4RSB%20CPPM.pdf
+https://pinout.xyz/
+https://youtu.be/sEBjE644_jk?si=JK_OcCYUJP7IYNYg
